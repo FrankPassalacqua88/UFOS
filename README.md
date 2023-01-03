@@ -12,20 +12,20 @@ In oder to use the filtering feature please follow the following instrctions.
 
 First, find the filter input fields on the lefthand side of the webpage as shown below.
 
-![Filter Location](img/Filter_loaction.jpg)
+![Filter Location](img/Filter_loaction.png)
 
 Next, enter text in any of the input fields and pess the enter key. The table will update. Note: text must be entered exatly as shown in the table for mataching results to be found.
 
 
-![Filter Text](img/Filter_text.jpg)
+![Filter Text](img/Filter_text.png)
 
 Text may then be entered in any of the additional filters to futher narow the search.
 
-![Multiple Filters](img/Multiple_filters.jpg)
+![Multiple Filters](img/Multiple_filters.png)
 
 To remove a filter delete the text in a field and press the enter key.
 
-![Delete Filter](img/Delete_filters.jpg)
+![Delete Filter](img/Delete_filters.png)
 
 ## Summary
 
