@@ -40,7 +40,7 @@ function updateFilters() {
     // 5. If a filter value was entered then add that filterId and value
     // to the filters list. Otherwise, clear that filter from the filters object.
   if ( filterValue != "") {
-    filters.splice(filters.findIndex(v => v.id === filterId),1)
+    //filters.splice(filters.findIndex(v => v.id === filterId),1)
     filters.push({value:filterValue, id:filterId})
     console.log(filters)
   }
